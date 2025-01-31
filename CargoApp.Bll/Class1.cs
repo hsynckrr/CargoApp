@@ -3,5 +3,4 @@
 public class Class1 
 {
     //Sa
-    //IUHGıuhasdguh
 }
