@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/huseyincakir/RiderProjects/CargoApp/CargoApp.Bll/CargoApp.Bll.csproj",
+      "projectUniqueName": "/Users/huseyincakir/Desktop/CargoApp/CargoApp.Bll/CargoApp.Bll.csproj",
       "projectName": "CargoApp.Bll",
-      "projectPath": "/Users/huseyincakir/RiderProjects/CargoApp/CargoApp.Bll/CargoApp.Bll.csproj",
+      "projectPath": "/Users/huseyincakir/Desktop/CargoApp/CargoApp.Bll/CargoApp.Bll.csproj",
       "packagesPath": "/Users/huseyincakir/.nuget/packages/",
-      "outputPath": "/Users/huseyincakir/RiderProjects/CargoApp/CargoApp.Bll/obj/",
+      "outputPath": "/Users/huseyincakir/Desktop/CargoApp/CargoApp.Bll/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/huseyincakir/.nuget/NuGet/NuGet.Config"
