@@ -1,5 +1,6 @@
 ﻿namespace CargoApp.Bll;
 
-public class Class1
+public class Class1 
 {
+    //Sa
 }
